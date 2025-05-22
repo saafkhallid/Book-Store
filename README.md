@@ -28,8 +28,6 @@ Une application web complète pour gérer une librairie en ligne. Développée a
 - Node.js
 - Express.js
 - MongoDB avec Mongoose
-- JSON Web Token (JWT) pour l’auth
-- Bcrypt.js pour le hash des mots de passe
 
 ---
 
@@ -43,5 +41,5 @@ Une application web complète pour gérer une librairie en ligne. Développée a
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/votre-utilisateur/mern-bookstore.git
-cd mern-bookstore
+git clone https://github.com/saafkhallid/Book-Store
+cd Book-Store
